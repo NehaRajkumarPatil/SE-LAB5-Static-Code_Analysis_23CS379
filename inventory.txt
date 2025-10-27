@@ -1,0 +1,2 @@
+Apples,50
+Oranges,20
