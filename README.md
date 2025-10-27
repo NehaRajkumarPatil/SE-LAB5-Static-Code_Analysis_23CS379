@@ -1,9 +1,6 @@
 # 🧩 SE-LAB5: Static Code Analysis
-
-**Author:** Neha Rajkumar Patil  
+ 
 **Course:** Software Engineering Laboratory  
-**Repo:** SE-LAB5-Static-Code_Analysis_23CS379  
-
 ---
 
 ## 🎯 Objective
@@ -63,5 +60,3 @@ To improve code quality, readability, and security by performing **Static Code A
 
 **Submitted by:**  
 👩‍💻 *Neha Rajkumar Patil (PES2UG23CS379)*  
-📘 *Department of Computer Science & Engineering*  
-🏫 *PES University*
