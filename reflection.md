@@ -1,35 +1,3 @@
-# 🧩 Lab 5: Static Code Analysis
-
-**Name:** Neha Rajkumar Patil  
-**Course:** Software Engineering Laboratory  
-**Lab Title:** Static Code Analysis using Pylint, Bandit, and Flake8  
-
----
-
-##  Objective
-To enhance Python code quality, security, and maintainability by using static analysis tools — **Pylint**, **Bandit**, and **Flake8** — to identify, document, and fix issues in `inventory_system.py`.
-
----
-
-## Learning Outcomes
-By completing this lab, I was able to:
-- Understand the role of static analysis in detecting bugs and vulnerabilities.  
-- Identify and fix common Python issues such as mutable default arguments, insecure functions, and poor exception handling.  
-- Use **Pylint**, **Bandit**, and **Flake8** effectively to analyze and improve code quality.  
-- Interpret static analysis reports and apply appropriate fixes.  
-- Reflect on the impact of static analysis in improving software reliability.
-
----
-
-## Verification Summary
-
-| **Tool** | **Result** | **Status** |
-|-----------|-------------|------------|
-| **Pylint** | 10.00 / 10 | All issues resolved |
-| **Bandit** | No issues identified | Secure |
-| **Flake8** | No warnings or errors | Style compliant |
-
----
 
 ## Reflection Questions
 
