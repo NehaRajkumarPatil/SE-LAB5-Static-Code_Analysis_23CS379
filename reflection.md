@@ -1,4 +1,4 @@
-# Reflection
+# 💭 Reflection
 
 ## 1. Which issues were the easiest to fix, and which were the hardest? Why?
 
