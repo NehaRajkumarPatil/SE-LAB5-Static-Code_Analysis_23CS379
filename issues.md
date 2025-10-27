@@ -1,9 +1,4 @@
 # 🧾 Lab 5 – Static Code Analysis  
-**File:** `issues_table.md`  
-**Author:** Neha Rajkumar Patil  
-**Course:** Software Engineering Laboratory  
-**Repository:** SE-LAB5-Static-Code-Analysis  
-
 ---
 
 ## Issue Documentation Table
